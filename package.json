@@ -1,6 +1,8 @@
 {
-  "name": "bnb-proxy",
+  "name": "jembatan-bnb",
   "version": "1.0.0",
+  "description": "Proxy Miner",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
