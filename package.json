@@ -1,7 +1,7 @@
 {
-  "name": "jembatan-bnb",
+  "name": "my-generic-web-app",
   "version": "1.0.0",
-  "description": "Proxy Miner",
+  "description": "Just a standard daily web application test",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
